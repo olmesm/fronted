@@ -9,8 +9,8 @@
 Smallest frontmatter parser with 1 dependency.
 
 ```bash
-npm i olmesm/fronted#semver:1
-yarn add olmesm/fronted#semver:1
+npm i olmesm/fronted#^1
+yarn add olmesm/fronted#^1
 ```
 
 ## Development
