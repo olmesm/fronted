@@ -1,10 +1,8 @@
 {
-  "name": "frontmatter-light",
+  "name": "fronted",
   "version": "0.0.0",
   "type": "module",
-  "files": [
-    "index.js"
-  ],
+  "files": ["index.js"],
   "scripts": {
     "dev": "ava -w",
     "test": "ava"
