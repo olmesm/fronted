@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "type": "module",
   "files": ["index.js"],
+  "license": "MIT",
   "scripts": {
     "dev": "ava -w",
     "test": "ava"
