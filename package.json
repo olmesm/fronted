@@ -1,0 +1,18 @@
+{
+  "name": "frontmatter-light",
+  "version": "0.0.0",
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "dev": "ava -w",
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^5.1.0"
+  },
+  "dependencies": {
+    "yaml": "^2.1.3"
+  }
+}
